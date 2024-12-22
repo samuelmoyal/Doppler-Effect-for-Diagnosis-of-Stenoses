@@ -3,8 +3,8 @@
 This repository contains my TIPE report, exploring how the Doppler effect can be applied to diagnose arterial and venous network disorders, with a focus on stenoses.
 
 ## Content
-- Rapport: The original report in French 
-- Report: A translated summary
+- Rapport: The original report in French  [download](Rapport.pdf)
+- Report: A translated summary [download](Report.pdf)
 
 
 ## Abstracts
